@@ -1,6 +1,8 @@
 EBAZ4205-10-HDMI Demo
 =====================
 
+English | [日本語](README_ja.md)
+
 Description
 -----------
 

@@ -6,6 +6,7 @@
 !.gitignore
 !.gitmodules
 !README.md
+!README_ja.md
 !LICENSE
 !project_info.tcl
 !proj/
